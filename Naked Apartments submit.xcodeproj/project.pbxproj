@@ -26,6 +26,34 @@
 		F5B6566318DB88400088CD75 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5B6563B18DB88400088CD75 /* CoreData.framework */; };
 		F5B6566B18DB88400088CD75 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F5B6566918DB88400088CD75 /* InfoPlist.strings */; };
 		F5B6566D18DB88400088CD75 /* Naked_Apartments_submitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6566C18DB88400088CD75 /* Naked_Apartments_submitTests.m */; };
+		F5B6567918DBBBAE0088CD75 /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6567618DBBB840088CD75 /* Reachability.m */; };
+		F5B6567D18DBBCF00088CD75 /* NKD_ConnectionTest.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6567C18DBBCF00088CD75 /* NKD_ConnectionTest.m */; };
+		F5B6568218DBC4720088CD75 /* NKD_Html_Parse.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6568118DBC4720088CD75 /* NKD_Html_Parse.m */; };
+		F5B6568518DBC59E0088CD75 /* NKD_Html_Element.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6568418DBC59E0088CD75 /* NKD_Html_Element.m */; };
+		F5B6568C18DBE1070088CD75 /* TFHpple.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6568718DBE1070088CD75 /* TFHpple.m */; };
+		F5B6568D18DBE1070088CD75 /* TFHppleElement.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6568918DBE1070088CD75 /* TFHppleElement.m */; };
+		F5B6568E18DBE1070088CD75 /* XPathQuery.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6568B18DBE1070088CD75 /* XPathQuery.m */; };
+		F5B6569818DBEA640088CD75 /* libxml2.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = F5B6569718DBEA640088CD75 /* libxml2.dylib */; };
+		F5B6569A18DBFB590088CD75 /* Custom_Naked_Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5B6569918DBFB590088CD75 /* Custom_Naked_Cell.xib */; };
+		F5B6569E18DBFD130088CD75 /* NKD_Custom_Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6569D18DBFD130088CD75 /* NKD_Custom_Cell.m */; };
+		F5B656A118DCDF390088CD75 /* NKD_Thumbnail_Grabber.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B656A018DCDF390088CD75 /* NKD_Thumbnail_Grabber.m */; };
+		F5B656F018DF03730088CD75 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5B656EF18DF03730088CD75 /* CoreLocation.framework */; };
+		F5B656F218DF038A0088CD75 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5B656F118DF038A0088CD75 /* CFNetwork.framework */; };
+		F5B656F418DF039D0088CD75 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5B656F318DF039D0088CD75 /* MapKit.framework */; };
+		F5B656F918DF2B7E0088CD75 /* iphonebasicload.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B656F818DF2B7E0088CD75 /* iphonebasicload.png */; };
+		F5B656FB18DF2B850088CD75 /* iphone5load.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B656FA18DF2B850088CD75 /* iphone5load.png */; };
+		F5B6570318DF2E310088CD75 /* appticon_x80.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6570218DF2E310088CD75 /* appticon_x80.png */; };
+		F5B6570518DF2E360088CD75 /* appticon_x40.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6570418DF2E360088CD75 /* appticon_x40.png */; };
+		F5B6570718DF2E390088CD75 /* appticon_x58.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6570618DF2E390088CD75 /* appticon_x58.png */; };
+		F5B6570918DF2E900088CD75 /* appticon_x29.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6570818DF2E900088CD75 /* appticon_x29.png */; };
+		F5B6571118DF31A70088CD75 /* appticon_x152@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6571018DF31A70088CD75 /* appticon_x152@2x.png */; };
+		F5B6571318DF31AB0088CD75 /* appticon_x120@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6571218DF31AB0088CD75 /* appticon_x120@2x.png */; };
+		F5B6571518DF349D0088CD75 /* appticon_x120.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6571418DF349D0088CD75 /* appticon_x120.png */; };
+		F5B6571718DF34C90088CD75 /* appticon_x152.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6571618DF34C90088CD75 /* appticon_x152.png */; };
+		F5B6571A18DF412B0088CD75 /* NKD_Appt_Map_Marker.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6571918DF412B0088CD75 /* NKD_Appt_Map_Marker.m */; };
+		F5B6572018DF4DA60088CD75 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = F5B6571F18DF4DA60088CD75 /* logo.png */; };
+		F5B6572218DF78ED0088CD75 /* IPhone_Search_Scrollview.xib in Resources */ = {isa = PBXBuildFile; fileRef = F5B6572118DF78ED0088CD75 /* IPhone_Search_Scrollview.xib */; };
+		F5B6572518DF7E300088CD75 /* NKD_Search_UIView_Custom.m in Sources */ = {isa = PBXBuildFile; fileRef = F5B6572418DF7E300088CD75 /* NKD_Search_UIView_Custom.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +91,45 @@
 		F5B6566818DB88400088CD75 /* Naked Apartments submitTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Naked Apartments submitTests-Info.plist"; sourceTree = "<group>"; };
 		F5B6566A18DB88400088CD75 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F5B6566C18DB88400088CD75 /* Naked_Apartments_submitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Naked_Apartments_submitTests.m; sourceTree = "<group>"; };
+		F5B6567618DBBB840088CD75 /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
+		F5B6567A18DBBBE50088CD75 /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
+		F5B6567B18DBBCF00088CD75 /* NKD_ConnectionTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_ConnectionTest.h; sourceTree = "<group>"; };
+		F5B6567C18DBBCF00088CD75 /* NKD_ConnectionTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_ConnectionTest.m; sourceTree = "<group>"; };
+		F5B6568018DBC4720088CD75 /* NKD_Html_Parse.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_Html_Parse.h; sourceTree = "<group>"; };
+		F5B6568118DBC4720088CD75 /* NKD_Html_Parse.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_Html_Parse.m; sourceTree = "<group>"; };
+		F5B6568318DBC59E0088CD75 /* NKD_Html_Element.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_Html_Element.h; sourceTree = "<group>"; };
+		F5B6568418DBC59E0088CD75 /* NKD_Html_Element.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_Html_Element.m; sourceTree = "<group>"; };
+		F5B6568618DBE1070088CD75 /* TFHpple.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHpple.h; sourceTree = "<group>"; };
+		F5B6568718DBE1070088CD75 /* TFHpple.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHpple.m; sourceTree = "<group>"; };
+		F5B6568818DBE1070088CD75 /* TFHppleElement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TFHppleElement.h; sourceTree = "<group>"; };
+		F5B6568918DBE1070088CD75 /* TFHppleElement.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TFHppleElement.m; sourceTree = "<group>"; };
+		F5B6568A18DBE1070088CD75 /* XPathQuery.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XPathQuery.h; sourceTree = "<group>"; };
+		F5B6568B18DBE1070088CD75 /* XPathQuery.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XPathQuery.m; sourceTree = "<group>"; };
+		F5B6569718DBEA640088CD75 /* libxml2.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libxml2.dylib; path = usr/lib/libxml2.dylib; sourceTree = SDKROOT; };
+		F5B6569918DBFB590088CD75 /* Custom_Naked_Cell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = Custom_Naked_Cell.xib; sourceTree = "<group>"; };
+		F5B6569C18DBFD130088CD75 /* NKD_Custom_Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_Custom_Cell.h; sourceTree = "<group>"; };
+		F5B6569D18DBFD130088CD75 /* NKD_Custom_Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_Custom_Cell.m; sourceTree = "<group>"; };
+		F5B6569F18DCDF390088CD75 /* NKD_Thumbnail_Grabber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_Thumbnail_Grabber.h; sourceTree = "<group>"; };
+		F5B656A018DCDF390088CD75 /* NKD_Thumbnail_Grabber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_Thumbnail_Grabber.m; sourceTree = "<group>"; };
+		F5B656EF18DF03730088CD75 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		F5B656F118DF038A0088CD75 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		F5B656F318DF039D0088CD75 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		F5B656F818DF2B7E0088CD75 /* iphonebasicload.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphonebasicload.png; sourceTree = "<group>"; };
+		F5B656FA18DF2B850088CD75 /* iphone5load.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iphone5load.png; sourceTree = "<group>"; };
+		F5B6570218DF2E310088CD75 /* appticon_x80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appticon_x80.png; sourceTree = "<group>"; };
+		F5B6570418DF2E360088CD75 /* appticon_x40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appticon_x40.png; sourceTree = "<group>"; };
+		F5B6570618DF2E390088CD75 /* appticon_x58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appticon_x58.png; sourceTree = "<group>"; };
+		F5B6570818DF2E900088CD75 /* appticon_x29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appticon_x29.png; sourceTree = "<group>"; };
+		F5B6571018DF31A70088CD75 /* appticon_x152@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appticon_x152@2x.png"; sourceTree = "<group>"; };
+		F5B6571218DF31AB0088CD75 /* appticon_x120@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appticon_x120@2x.png"; sourceTree = "<group>"; };
+		F5B6571418DF349D0088CD75 /* appticon_x120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appticon_x120.png; sourceTree = "<group>"; };
+		F5B6571618DF34C90088CD75 /* appticon_x152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = appticon_x152.png; sourceTree = "<group>"; };
+		F5B6571818DF412B0088CD75 /* NKD_Appt_Map_Marker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_Appt_Map_Marker.h; sourceTree = "<group>"; };
+		F5B6571918DF412B0088CD75 /* NKD_Appt_Map_Marker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_Appt_Map_Marker.m; sourceTree = "<group>"; };
+		F5B6571F18DF4DA60088CD75 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = logo.png; sourceTree = "<group>"; };
+		F5B6572118DF78ED0088CD75 /* IPhone_Search_Scrollview.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IPhone_Search_Scrollview.xib; sourceTree = "<group>"; };
+		F5B6572318DF7E300088CD75 /* NKD_Search_UIView_Custom.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NKD_Search_UIView_Custom.h; sourceTree = "<group>"; };
+		F5B6572418DF7E300088CD75 /* NKD_Search_UIView_Custom.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NKD_Search_UIView_Custom.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +137,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5B656F418DF039D0088CD75 /* MapKit.framework in Frameworks */,
+				F5B656F218DF038A0088CD75 /* CFNetwork.framework in Frameworks */,
+				F5B656F018DF03730088CD75 /* CoreLocation.framework in Frameworks */,
+				F5B6569818DBEA640088CD75 /* libxml2.dylib in Frameworks */,
 				F5B6563818DB88400088CD75 /* CoreGraphics.framework in Frameworks */,
 				F5B6563C18DB88400088CD75 /* CoreData.framework in Frameworks */,
 				F5B6563A18DB88400088CD75 /* UIKit.framework in Frameworks */,
@@ -113,6 +184,10 @@
 		F5B6563418DB88400088CD75 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				F5B656F318DF039D0088CD75 /* MapKit.framework */,
+				F5B656F118DF038A0088CD75 /* CFNetwork.framework */,
+				F5B656EF18DF03730088CD75 /* CoreLocation.framework */,
+				F5B6569718DBEA640088CD75 /* libxml2.dylib */,
 				F5B6563518DB88400088CD75 /* Foundation.framework */,
 				F5B6563718DB88400088CD75 /* CoreGraphics.framework */,
 				F5B6563918DB88400088CD75 /* UIKit.framework */,
@@ -125,14 +200,12 @@
 		F5B6563D18DB88400088CD75 /* Naked Apartments submit */ = {
 			isa = PBXGroup;
 			children = (
-				F5B6564618DB88400088CD75 /* NKDAppDelegate.h */,
-				F5B6564718DB88400088CD75 /* NKDAppDelegate.m */,
-				F5B6564918DB88400088CD75 /* Main_iPhone.storyboard */,
-				F5B6564C18DB88400088CD75 /* Main_iPad.storyboard */,
-				F5B6565218DB88400088CD75 /* NKDMasterViewController.h */,
-				F5B6565318DB88400088CD75 /* NKDMasterViewController.m */,
-				F5B6565518DB88400088CD75 /* NKDDetailViewController.h */,
-				F5B6565618DB88400088CD75 /* NKDDetailViewController.m */,
+				F5B6569B18DBFCBD0088CD75 /* views */,
+				F5B656F618DF2B100088CD75 /* singletons */,
+				F5B6567F18DBC44D0088CD75 /* Craigs Naked Parsing */,
+				F5B6567E18DBBCF90088CD75 /* Craigs Connect test // not implemented on this version */,
+				F5B656F518DF2AF70088CD75 /* nibs */,
+				F5B656F718DF2B500088CD75 /* images */,
 				F5B6565818DB88400088CD75 /* Images.xcassets */,
 				F5B6564F18DB88400088CD75 /* Naked_Apartments_submit.xcdatamodeld */,
 				F5B6563E18DB88400088CD75 /* Supporting Files */,
@@ -167,6 +240,115 @@
 				F5B6566918DB88400088CD75 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F5B6567E18DBBCF90088CD75 /* Craigs Connect test // not implemented on this version */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6567A18DBBBE50088CD75 /* Reachability.h */,
+				F5B6567618DBBB840088CD75 /* Reachability.m */,
+				F5B6567B18DBBCF00088CD75 /* NKD_ConnectionTest.h */,
+				F5B6567C18DBBCF00088CD75 /* NKD_ConnectionTest.m */,
+			);
+			name = "Craigs Connect test // not implemented on this version";
+			sourceTree = "<group>";
+		};
+		F5B6567F18DBC44D0088CD75 /* Craigs Naked Parsing */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6569F18DCDF390088CD75 /* NKD_Thumbnail_Grabber.h */,
+				F5B656A018DCDF390088CD75 /* NKD_Thumbnail_Grabber.m */,
+				F5B6568618DBE1070088CD75 /* TFHpple.h */,
+				F5B6568718DBE1070088CD75 /* TFHpple.m */,
+				F5B6568818DBE1070088CD75 /* TFHppleElement.h */,
+				F5B6568918DBE1070088CD75 /* TFHppleElement.m */,
+				F5B6568A18DBE1070088CD75 /* XPathQuery.h */,
+				F5B6568B18DBE1070088CD75 /* XPathQuery.m */,
+				F5B6568018DBC4720088CD75 /* NKD_Html_Parse.h */,
+				F5B6568118DBC4720088CD75 /* NKD_Html_Parse.m */,
+				F5B6568318DBC59E0088CD75 /* NKD_Html_Element.h */,
+				F5B6568418DBC59E0088CD75 /* NKD_Html_Element.m */,
+			);
+			name = "Craigs Naked Parsing";
+			sourceTree = "<group>";
+		};
+		F5B6569B18DBFCBD0088CD75 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6565218DB88400088CD75 /* NKDMasterViewController.h */,
+				F5B6565318DB88400088CD75 /* NKDMasterViewController.m */,
+				F5B6565518DB88400088CD75 /* NKDDetailViewController.h */,
+				F5B6565618DB88400088CD75 /* NKDDetailViewController.m */,
+				F5B6571818DF412B0088CD75 /* NKD_Appt_Map_Marker.h */,
+				F5B6571918DF412B0088CD75 /* NKD_Appt_Map_Marker.m */,
+				F5B6569C18DBFD130088CD75 /* NKD_Custom_Cell.h */,
+				F5B6569D18DBFD130088CD75 /* NKD_Custom_Cell.m */,
+				F5B6572318DF7E300088CD75 /* NKD_Search_UIView_Custom.h */,
+				F5B6572418DF7E300088CD75 /* NKD_Search_UIView_Custom.m */,
+			);
+			name = views;
+			sourceTree = "<group>";
+		};
+		F5B656F518DF2AF70088CD75 /* nibs */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6569918DBFB590088CD75 /* Custom_Naked_Cell.xib */,
+				F5B6572118DF78ED0088CD75 /* IPhone_Search_Scrollview.xib */,
+				F5B6564C18DB88400088CD75 /* Main_iPad.storyboard */,
+				F5B6564918DB88400088CD75 /* Main_iPhone.storyboard */,
+			);
+			name = nibs;
+			sourceTree = "<group>";
+		};
+		F5B656F618DF2B100088CD75 /* singletons */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6564618DB88400088CD75 /* NKDAppDelegate.h */,
+				F5B6564718DB88400088CD75 /* NKDAppDelegate.m */,
+			);
+			name = singletons;
+			sourceTree = "<group>";
+		};
+		F5B656F718DF2B500088CD75 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6571E18DF4D800088CD75 /* gui images */,
+				F5B6570B18DF2EB90088CD75 /* launch images */,
+				F5B6570A18DF2E9B0088CD75 /* icons */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
+		F5B6570A18DF2E9B0088CD75 /* icons */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6571618DF34C90088CD75 /* appticon_x152.png */,
+				F5B6571418DF349D0088CD75 /* appticon_x120.png */,
+				F5B6571218DF31AB0088CD75 /* appticon_x120@2x.png */,
+				F5B6571018DF31A70088CD75 /* appticon_x152@2x.png */,
+				F5B6570818DF2E900088CD75 /* appticon_x29.png */,
+				F5B6570418DF2E360088CD75 /* appticon_x40.png */,
+				F5B6570218DF2E310088CD75 /* appticon_x80.png */,
+				F5B6570618DF2E390088CD75 /* appticon_x58.png */,
+			);
+			name = icons;
+			sourceTree = "<group>";
+		};
+		F5B6570B18DF2EB90088CD75 /* launch images */ = {
+			isa = PBXGroup;
+			children = (
+				F5B656FA18DF2B850088CD75 /* iphone5load.png */,
+				F5B656F818DF2B7E0088CD75 /* iphonebasicload.png */,
+			);
+			name = "launch images";
+			sourceTree = "<group>";
+		};
+		F5B6571E18DF4D800088CD75 /* gui images */ = {
+			isa = PBXGroup;
+			children = (
+				F5B6571F18DF4DA60088CD75 /* logo.png */,
+			);
+			name = "gui images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +428,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5B6572218DF78ED0088CD75 /* IPhone_Search_Scrollview.xib in Resources */,
+				F5B6570318DF2E310088CD75 /* appticon_x80.png in Resources */,
+				F5B6570918DF2E900088CD75 /* appticon_x29.png in Resources */,
+				F5B6570718DF2E390088CD75 /* appticon_x58.png in Resources */,
 				F5B6564E18DB88400088CD75 /* Main_iPad.storyboard in Resources */,
+				F5B6571318DF31AB0088CD75 /* appticon_x120@2x.png in Resources */,
+				F5B656F918DF2B7E0088CD75 /* iphonebasicload.png in Resources */,
+				F5B656FB18DF2B850088CD75 /* iphone5load.png in Resources */,
 				F5B6565918DB88400088CD75 /* Images.xcassets in Resources */,
+				F5B6570518DF2E360088CD75 /* appticon_x40.png in Resources */,
+				F5B6569A18DBFB590088CD75 /* Custom_Naked_Cell.xib in Resources */,
 				F5B6564B18DB88400088CD75 /* Main_iPhone.storyboard in Resources */,
+				F5B6572018DF4DA60088CD75 /* logo.png in Resources */,
+				F5B6571718DF34C90088CD75 /* appticon_x152.png in Resources */,
+				F5B6571118DF31A70088CD75 /* appticon_x152@2x.png in Resources */,
+				F5B6571518DF349D0088CD75 /* appticon_x120.png in Resources */,
 				F5B6564218DB88400088CD75 /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -268,11 +463,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F5B6568518DBC59E0088CD75 /* NKD_Html_Element.m in Sources */,
 				F5B6565418DB88400088CD75 /* NKDMasterViewController.m in Sources */,
+				F5B6571A18DF412B0088CD75 /* NKD_Appt_Map_Marker.m in Sources */,
+				F5B6572518DF7E300088CD75 /* NKD_Search_UIView_Custom.m in Sources */,
 				F5B6564818DB88400088CD75 /* NKDAppDelegate.m in Sources */,
+				F5B6567D18DBBCF00088CD75 /* NKD_ConnectionTest.m in Sources */,
+				F5B656A118DCDF390088CD75 /* NKD_Thumbnail_Grabber.m in Sources */,
 				F5B6565118DB88400088CD75 /* Naked_Apartments_submit.xcdatamodeld in Sources */,
+				F5B6568C18DBE1070088CD75 /* TFHpple.m in Sources */,
 				F5B6564418DB88400088CD75 /* main.m in Sources */,
+				F5B6567918DBBBAE0088CD75 /* Reachability.m in Sources */,
+				F5B6568218DBC4720088CD75 /* NKD_Html_Parse.m in Sources */,
+				F5B6569E18DBFD130088CD75 /* NKD_Custom_Cell.m in Sources */,
 				F5B6565718DB88400088CD75 /* NKDDetailViewController.m in Sources */,
+				F5B6568E18DBE1070088CD75 /* XPathQuery.m in Sources */,
+				F5B6568D18DBE1070088CD75 /* TFHppleElement.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,7 +617,13 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Naked Apartments submit/Naked Apartments submit-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
 				INFOPLIST_FILE = "Naked Apartments submit/Naked Apartments submit-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/include/libxml2",
+					"$(inherited)",
+					"/Users/iph/Documents/xcode_stuff/CraigCollage/naked_apartments/Naked\\ Apartments\\ submit/Naked\\ Apartments\\ submit",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -424,7 +636,13 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Naked Apartments submit/Naked Apartments submit-Prefix.pch";
+				HEADER_SEARCH_PATHS = "$(SDKROOT)/usr/include/libxml2";
 				INFOPLIST_FILE = "Naked Apartments submit/Naked Apartments submit-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(SDKROOT)/usr/include/libxml2",
+					"$(inherited)",
+					"/Users/iph/Documents/xcode_stuff/CraigCollage/naked_apartments/Naked\\ Apartments\\ submit/Naked\\ Apartments\\ submit",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -491,6 +709,7 @@
 				F5B6567218DB88400088CD75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F5B6567318DB88400088CD75 /* Build configuration list for PBXNativeTarget "Naked Apartments submitTests" */ = {
 			isa = XCConfigurationList;
@@ -499,6 +718,7 @@
 				F5B6567518DB88400088CD75 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

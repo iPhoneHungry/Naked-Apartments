@@ -10,13 +10,17 @@
 
 @class NKDDetailViewController;
 
-#import <CoreData/CoreData.h>
 
-@interface NKDMasterViewController : UITableViewController <NSFetchedResultsControllerDelegate>
+#import "NKD_Html_Parse.h"
 
+@interface NKDMasterViewController : UITableViewController {
+    
+    NKD_Html_Parse *nakedParser;
+    
+    
+}
+@property (strong,nonatomic) NSString *apartmentRequestURL;
 @property (strong, nonatomic) NKDDetailViewController *detailViewController;
 
-@property (strong, nonatomic) NSFetchedResultsController *fetchedResultsController;
-@property (strong, nonatomic) NSManagedObjectContext *managedObjectContext;
 
 @end

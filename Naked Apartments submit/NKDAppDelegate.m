@@ -24,13 +24,13 @@
         UINavigationController *navigationController = [splitViewController.viewControllers lastObject];
         splitViewController.delegate = (id)navigationController.topViewController;
         
-        UINavigationController *masterNavigationController = splitViewController.viewControllers[0];
-        NKDMasterViewController *controller = (NKDMasterViewController *)masterNavigationController.topViewController;
-        controller.managedObjectContext = self.managedObjectContext;
+      //  UINavigationController *masterNavigationController = splitViewController.viewControllers[0];
+     //   NKDMasterViewController *controller = (NKDMasterViewController *)masterNavigationController.topViewController;
+        
     } else {
-        UINavigationController *navigationController = (UINavigationController *)self.window.rootViewController;
-        NKDMasterViewController *controller = (NKDMasterViewController *)navigationController.topViewController;
-        controller.managedObjectContext = self.managedObjectContext;
+      //  UINavigationController *navigationController = (UINavigationController *)self.window.rootViewController;
+      //  NKDMasterViewController *controller = (NKDMasterViewController *)navigationController.topViewController;
+       
     }
     return YES;
 }
